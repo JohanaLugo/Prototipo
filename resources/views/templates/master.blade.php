@@ -1,0 +1,7 @@
+@include ('includes.header')
+@include ('includes.barra')
+@include ('includes.div')
+@include ('includes.esp')
+@include ('includes.nav')
+@include ('includes.content')
+@include ('includes.footer')
